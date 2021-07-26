@@ -1,1 +1,1 @@
-# Sample-QCs-with-ARNN
+# Sample QCs with ARNN
